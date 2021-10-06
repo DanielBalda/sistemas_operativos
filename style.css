@@ -1,5 +1,5 @@
 html {
-    background-color: #181a1b;
+    background-color: #131516;
 }
 
 body {
@@ -8,7 +8,8 @@ body {
     text-align: center;
     margin-top: 50px;
     width: fit-content;
-    background-color: #181a1b;
+    background-color: #131516;
+    color: #d1cdc7
 }
 
 h1 {
