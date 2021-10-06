@@ -10,3 +10,7 @@ h1 {
     color: #60a7e7;
     text-decoration-line: underline;
 }
+
+p {
+    margin-bottom: 0px;
+}
