@@ -20,3 +20,9 @@ h1 {
 p {
     margin-bottom: 0px;
 }
+
+.tabla {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
