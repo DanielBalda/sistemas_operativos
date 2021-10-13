@@ -32,3 +32,13 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
+
+contenedor-tabla2 {
+    max-height: 250px;
+    contain: content;
+    overflow: auto;
+    border: 1px solid;
+    border-radius: 3px;
+    width: max-content;
+    text-align-last: center;
+}
