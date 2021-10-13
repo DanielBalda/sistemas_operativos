@@ -33,7 +33,7 @@ p {
     margin-right: auto;
 }
 
-contenedor-tabla2 {
+.contenedor-tabla2 {
     max-height: 250px;
     contain: content;
     overflow: auto;
