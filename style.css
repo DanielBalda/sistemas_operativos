@@ -1,5 +1,5 @@
 html {
-    background: url("bg.svg");
+    background-color: #131516;
 }
 
 body {
@@ -8,7 +8,7 @@ body {
     text-align: center;
     margin-top: 50px;
     width: fit-content;
-    background-color: transparent;
+    background-color: #131516;
     color: #d1cdc7
 }
 
