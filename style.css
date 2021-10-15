@@ -1,5 +1,7 @@
 html {
     background-color: #131516;
+    opacity:0;
+    transition:.5s ease-all;
 }
 
 body {
